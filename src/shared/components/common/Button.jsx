@@ -16,7 +16,7 @@ const Button = ({
         <TouchableOpacity 
             style={[
                 styles.button,
-                isSecondary ? styles.secondary : styles.primary,
+                isSecondary ? styles.buttonSecondary : styles.buttonPrimary,
                 loading && styles.buttonDisabled,
                 style
             ]}
