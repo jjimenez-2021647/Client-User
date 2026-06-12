@@ -2967,9 +2967,9 @@ Crear `src/AuthService.Api/appsettings.json`:
         "ExpiryInMinutes": 30
     },
     "CloudinarySettings": {
-        "CloudName": "your_cloud_name",
-        "ApiKey": "your_api_key",
-        "ApiSecret": "your_api_secret",
+        "CloudName": "dug3apxt3",
+        "ApiKey": "933245366977848",
+        "ApiSecret": "K3IEwrXbYxSG9Rw9qT1xa9D4t0g",
         "Folder": "auth_service/profiles"
     },
     "SmtpSettings": {
